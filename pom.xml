@@ -58,6 +58,7 @@
             <artifactId>postgresql</artifactId>
         </dependency>
 
+<!--        https://www.javafixing.com/2022/05/fixed-how-to-solve-incorrect.htmls-->
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
